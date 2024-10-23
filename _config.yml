@@ -1,4 +1,4 @@
 theme: minima
 title: Kyler Pasceri's blog 
-header_pages:
+header_pages: posts
   -about.md
