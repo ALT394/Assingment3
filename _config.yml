@@ -1,4 +1,4 @@
-remote_theme: midnight
+theme: midnight
 title: Kyler Pasceri's blog 
 header_pages:
   -about.md
