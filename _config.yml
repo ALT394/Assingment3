@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: merlot
 title: Kyler Pasceri's blog 
 header_pages:
   -about.md
