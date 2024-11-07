@@ -11,4 +11,4 @@ Coding issues, I guess.
 
 ![ERROR](/Assingment3/Error.jpg)
 
-![FUCK](/Assingment3/FUCK.jpg)
+![DARN](/Assingment3/FUCK.jpeg)
