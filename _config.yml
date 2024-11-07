@@ -1,6 +1,5 @@
----
 theme: minima
-title: Kyler Pasceri's blog 
+title: Kyler Pasceri's blog
+
 header_pages:
   -BIO.md
----
