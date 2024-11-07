@@ -1,2 +1,2 @@
-title: BIO
+title: "BIO"
 author: Kyler Pasceri
